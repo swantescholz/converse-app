@@ -1,6 +1,8 @@
 # converse-app
 An app that helps you to start great conversations
 
+You can find this [free app in the Google Play Store](https://play.google.com/store/apps/details?id=de.sscholz.converse).
+
 ## Main overview
 ![alt](screenshots/screenshot1.png "Text")
 
